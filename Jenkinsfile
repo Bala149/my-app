@@ -1,6 +1,6 @@
 node{
    stage('Greens'){
-     git 'https://github.com/damodaranj/my-app.git'
+     git 'https://github.com/Bala149/my-app.git'
    }
    stage('Compile-Package'){
 
